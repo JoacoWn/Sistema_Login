@@ -1,4 +1,6 @@
-package datos;
+package logica;
+
+import datos.DatosLogin;
 
 /**
  * Clase encargada de verificar las credenciales del usuario.

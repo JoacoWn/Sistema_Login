@@ -1,6 +1,6 @@
 package ui;
 import datos.DatosLogin;
-import datos.Login;
+import logica.Login;
 
 import java.util.Scanner;
 

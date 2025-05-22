@@ -9,7 +9,7 @@ public class DatosLogin {
 
     // Constructor por defecto (usa ruta relativa)
     public DatosLogin() {
-        cargarUsuarios("src/login.txt");
+        cargarUsuarios("src/main/java/datos/login.txt");
     }
 
     // Constructor con ruta personalizada
